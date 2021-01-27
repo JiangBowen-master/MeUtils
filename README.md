@@ -26,4 +26,8 @@ with timer('LOG'):
 - add zk/es/mongo/hdfs logger
 - retry tenacity
 
+
 pyspark https://wiki.n.miui.com/pages/viewpage.action?pageId=477643956
+
+---
+[git规范](https://tva1.sinaimg.cn/large/008eGmZEly1gn22tnx04dj312t0qpq6k.jpg)
